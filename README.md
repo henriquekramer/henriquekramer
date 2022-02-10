@@ -1,9 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquekramer&color=brightgreen" alt="Profile views" /> </p>
-<div align="left">
-  <a href="https://github.com/henriquekramer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquekramer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquekramer&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+**Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Henrique!**
+##
+
+**About me:**
+
+- 🌱  I’m currently learning **HTML, CSS, JavaScript, NodeJS, SQL**
+- 📝 I have graduated in **Production Engineering**.
+- 🚀  How to reach me: henriquemkramer@gmail.com
  
 ## 🛠 &nbsp;Tech Stack
 
