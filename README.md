@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, SQL
-- 📫 How to reach me: henriquemkramer@gmail.com or @kramerhenrique 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquekramer&color=brightgreen" alt="Profile views" /> </p>
 <div align="center">
   <a href="https://github.com/henriquekramer">
