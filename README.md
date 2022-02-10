@@ -5,9 +5,10 @@
 
 **About me:**
 
-- 🌱  I’m currently learning **HTML, CSS, JavaScript, NodeJS, SQL**
+- 🌱  I’m currently learning **HTML, CSS, JavaScript, NodeJS, SQL**.
 - 📝 I have graduated in **Production Engineering**.
 - 🚀  How to reach me: henriquemkramer@gmail.com
+- ⚡ Fun fact: I lived in **Dublin-Ireland** for 8 months. ☘️
  
 ## 🛠 &nbsp;Tech Stack
 
