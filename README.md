@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquekramer&color=brightgreen" alt="Profile views" /> </p>
-
 **<h3> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Henrique!</h3>**
 ##
 
