@@ -1,9 +1,9 @@
-**<h3> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Henrique!</h3>**
+**<h3> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">, I'm Henrique!</h3>**
 ##
 
 **About me:**
 
-- 🌱  I’m currently learning **ReactJS, TypeScript**.
+- 🌱  I’m currently learning **ReactJs, TypeScript, NextJs**.
 - 🔭  Currently my skills are: **HTML, CSS, JavaScript**
 - 📝  I have graduated in **Production Engineering**.
 - 🚀  How to reach me: henriquemkramer@gmail.com
