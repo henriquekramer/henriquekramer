@@ -1,4 +1,4 @@
-**<h3> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">, I'm Henrique!</h3>**
+**<h3> Hi, I'm Henrique!</h3>**
 ##
 
 **About me:**
