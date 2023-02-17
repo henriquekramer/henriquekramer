@@ -3,22 +3,17 @@
 
 **About me:**
 
-- 🌱  I’m currently learning **ReactJs, TypeScript, NextJs**.
-- 🔭  Currently my skills are: **HTML, CSS, JavaScript**
-- 📝  I have graduated in **Production Engineering**.
-- 🚀  How to reach me: henriquemkramer@gmail.com
+- 🔥  Junior Frontend Developer & Production Engineer focused on improving my code
+- 🔭 I’m currently working at [Onli Tecnologia](https://github.com/onliseguros)
+- 🚀  My skills are: **ReactJs, TypeScript, NextJs**
+- 📧  How to reach me: henriquemkramer@gmail.com
 - ⚡  Curious fact: I lived in **Dublin-Ireland** for 8 months. ☘️
  
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
   
 ##
 
