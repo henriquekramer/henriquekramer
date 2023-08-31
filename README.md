@@ -4,7 +4,7 @@
 **About me:**
 
 - 🔥  Junior Frontend Developer & Production Engineer focused on improving my code
-- 🔭 I’m currently working at [Onli Tecnologia](https://github.com/onliseguros)
+- 🔭 I’m currently working at [Codesign]
 - 🚀  My skills are: **ReactJs, TypeScript, NextJs**
 - 📧  How to reach me: henriquemkramer@gmail.com
 - ⚡  Curious fact: I lived in **Dublin-Ireland** for 8 months. ☘️
