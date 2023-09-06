@@ -3,7 +3,7 @@
 
 **About me:**
 
-- 🔥  Junior Frontend Developer & Production Engineer focused on improving my code
+- 🔥 Frontend Developer & Production Engineer focused on improving my code
 - 🔭 I’m currently working at [Codesign]
 - 🚀  My skills are: **ReactJs, TypeScript, NextJs**
 - 📧  How to reach me: henriquemkramer@gmail.com
