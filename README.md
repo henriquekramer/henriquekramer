@@ -4,18 +4,19 @@
 **About me:**
 
 - 🔥 Frontend Developer & Production Engineer focused on improving my code
-- 🔭 I’m currently working at [WeFit - Digital Service Design]
-- 🚀  My skills are: **ReactJs, TypeScript, NextJs**
+- 📚 I'm currently studying Node.js 
+- 🔭 I’m working at [WeFit - Digital Service Design](https://wefit.com.br/)
+- 🚀  My skills are: **ReactJs, TypeScript, NextJs, NodeJs**
 - 📧  How to reach me: henriquemkramer@gmail.com
 - ⚡  Curious fact: I lived in **Dublin-Ireland** for 8 months. ☘️
  
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
 
   
 ##
