@@ -8,7 +8,6 @@
 - 🔭 I’m working at [WeFit - Digital Service Design](https://wefit.com.br/)
 - 🚀  My skills are: **ReactJs, TypeScript, NextJs, NodeJs**
 - 📧  How to reach me: henriquemkramer@gmail.com
-- ⚡  Curious fact: I lived in **Dublin-Ireland** for 8 months. ☘️
  
 ## 🛠 &nbsp;Tech Stack
 
