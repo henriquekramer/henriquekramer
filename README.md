@@ -1,6 +1,6 @@
 **About me:**
 
-- 🔥 Frontend Developer & Production Engineer focused on improving my code
+- 🔥 Frontend Developer & Production Engineer
 - 🔭 I’m working at [Hapvida Notredame Intermédica]([https://wefit.com.br/](https://www.hapvida.com.br/site/))
 - 🚀  My skills are: **ReactJs, TypeScript, NextJs, NodeJs**
 - 📧  How to reach me: henriquemkramer@gmail.com
